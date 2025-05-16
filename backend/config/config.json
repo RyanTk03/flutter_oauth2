@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rayane",
+    "password": "rayane",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rayane",
+    "password": "rayane",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "rayane",
+    "password": "rayane",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
