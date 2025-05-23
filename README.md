@@ -14,4 +14,4 @@ This is a monorepo for two part of the same project. So the repo is subdivised i
 ## Setup
 Read the read the of each part(backend & flutter app) to know how to setup the project
 
-[chart](https://www.mermaidchart.com/raw/caee0581-afc9-403f-a93b-6afd0c73f1b2?theme=light&version=v0.1&format=svg)
+See the sequence diagram [here](https://www.mermaidchart.com/raw/caee0581-afc9-403f-a93b-6afd0c73f1b2?theme=light&version=v0.1&format=svg)
